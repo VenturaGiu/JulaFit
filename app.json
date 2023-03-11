@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "julafit",
-    "slug": "julafit",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
